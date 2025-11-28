@@ -1,8 +1,0 @@
-Based on the HTML given in class notebook, Classwork: Bootstrap 1 
-
-What will happen if I change the column class from col-md-6 to:
-
-col-lg-6
-col-sm-6
- 
-Describe the different between using "col-md-6", "col-lg-6", and "col-sm-6", what are their impact to the column with brief analysis.
